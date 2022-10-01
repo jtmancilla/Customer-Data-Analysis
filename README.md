@@ -5,7 +5,7 @@
 
 The goal of this project is to predict which individuals are most likely to convert into becoming customers for a mail-order sales company in Germany.
 
-**Customer Segmentation Report** - This analyzed demographics data for customers of a mail-order sales company in Germany. This used unsupervised learning techniques to perform customer segmentation, identifying the parts of the population that best describe the core customer base of the company. 
+**Customer Segmentation Report** (Identify_Customer_Segments.ipynb)  - This analyzed demographics data for customers of a mail-order sales company in Germany. This used unsupervised learning techniques to perform customer segmentation, identifying the parts of the population that best describe the core customer base of the company. 
 
 
 ## Table of Contents:
